@@ -3,6 +3,10 @@
 Learning attention mechanism from scratch. 
 
 
+## Usage
+
+Work with the notebooks by creating a virtual environment and use the `requirements.txt` to setup the packages.
+
 ## Resources
 
 "Attention is all you need" paper: <br>
