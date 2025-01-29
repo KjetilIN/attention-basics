@@ -21,13 +21,13 @@ To train the attention model `train_mha.ipynb`, use Google Colab, and enable GPU
 
 ## Results of trained MNIST model 
 
-After training we can use the following image as a Query (Q):
+After training we can use the following image as a Query (Q): <br>
 ![image](./img/output_6.png)
 
-Then the 10 closest images in by attention value becomes: 
+Then the 10 closest images in by attention value becomes: <br>
 ![image](./img/closest_10.png)
 
-See also some pairs after training:
+See also some pairs after training: <br>
 ![image](./img/pairs.png)
 
 
