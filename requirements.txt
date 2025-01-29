@@ -16,3 +16,4 @@ torch
 torchtext
 torchvision
 tqdm
+ipywidgets
